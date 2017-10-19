@@ -13,3 +13,4 @@ Completed:
 Missing: 
 	   2.2 weeks,
 	   2.5 through 2.6
+	   'GET' http doc per program; open file locally on github
