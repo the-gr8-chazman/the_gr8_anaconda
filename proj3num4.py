@@ -21,7 +21,7 @@ percent_error = three_errors/count *100
 
 
 print  "total requests made: ", count
-print  "total 4xx errors: ", three_errors
-print  "the % of 4xx of all requests:", percent_error, "%"
+print  "total 3xx errors: ", three_errors
+print  "the % of 3xx of all requests:", percent_error, "%"
 
 
